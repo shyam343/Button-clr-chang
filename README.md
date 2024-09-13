@@ -11,12 +11,12 @@ This project demonstrates the use of Html, CSS, JavaScript to create dynamic web
 + Good Morning (if it's before noon)
 - Good Afternoon (if it's between noon and 6 PM)
 + Good Evening (if it's after 6 PM)
-How It Works:
+## How It Works:
 Button: The button listens for a click event. When clicked, JavaScript logic dynamically toggles between two predefined background colors.
 
-Greeting Alert: JavaScript retrieves the current hour of the day and uses conditional logic to determine the appropriate greeting message. The message is displayed via an alert box when the page is loaded.
++ Greeting Alert: JavaScript retrieves the current hour of the day and uses conditional logic to determine the appropriate greeting message. The message is displayed via an alert box when the page is loaded.
 
-Technologies Used:
+# Technologies Used:
 HTML: Used to create the button structure.
 CSS: Simple styling for the button.
 JavaScript: Used to implement the button's color-changing functionality and the time-based greeting.
